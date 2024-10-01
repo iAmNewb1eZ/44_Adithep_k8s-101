@@ -1,0 +1,6 @@
+1.kubectl get all - ดูทรัพยากรทั้งหมด
+2.kubectl get pod - ดูรายชื่อ pod ที่กำลังทำงาน
+3.kubectl apply -f (ชื่อไฟล์)
+kubectl delete pods ( ชื่อ pod )
+kubectl delete all --all  - ลบทั้งหมด
+kubectl delete deployments (ชื่อของ deployments)

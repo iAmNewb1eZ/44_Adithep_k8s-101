@@ -4,3 +4,9 @@
 kubectl delete pods ( ชื่อ pod )
 kubectl delete all --all  - ลบทั้งหมด
 kubectl delete deployments (ชื่อของ deployments)
+kubectl logs - เช็ค log
+
+http://localhost:30002/api/todo
+http://localhost:30002/api/health
+
+docker pull mongo
